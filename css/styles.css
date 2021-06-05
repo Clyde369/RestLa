@@ -1,0 +1,114 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    padding: none;
+}
+
+.DLButtons
+{
+    padding-left: 300px;
+}
+
+#title {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+}
+
+.container-fluid {
+    padding: 5% 15%;
+    color:#000;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Montserrat-Bold', ;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+
+.navbar-dark .navbar-brand {
+    color: #000;
+}
+
+/* Download/logo */
+.row {
+    padding-top: 30px;
+}
+
+.introParagraph {
+    padding-left: 20%;
+}
+
+
+.RestLa{
+    padding: 3% 3%;
+    align-items:center;
+}
+
+.RestLaImageMain
+{
+    height: 400px;
+    width:auto;
+}
+
+#cta,#footer{
+    padding: 3% 3%;
+    align-items:center;
+}
+
+
+.MainImage {
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+
+/* features */
+#features {
+    padding: 3% 10%;
+}
+
+/* Pricing */
+#Pricing {
+    padding: 3% 3%;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+.icon {
+    margin: 15%;
+    color: rgb(88, 88, 88);
+}
+
+.icon:hover {
+    color: rgb(66, 66, 66)
+}
+
+/* navbar */
+
+.navbar {
+    padding-bottom: 3rem;
+}
+
+.nav-item {
+    padding: 0 15px;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+    color:#000
+
+}
+
+
+
+
